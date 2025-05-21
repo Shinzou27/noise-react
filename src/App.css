@@ -32,14 +32,6 @@
   filter: brightness(0) saturate(100%) invert(25%) sepia(91%) saturate(447%) hue-rotate(196deg) brightness(90%) contrast(85%);
 }
 
-
-#unity-canvas {
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 2rem;
-  text-align: center;
-}
-
 .logo {
   height: 6em;
   padding: 1.5em;
